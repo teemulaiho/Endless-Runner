@@ -1,0 +1,4 @@
+assets/sunny-land/frog-jump.png
+0 0 32 32
+31 0 32 32
+70 0 32 32

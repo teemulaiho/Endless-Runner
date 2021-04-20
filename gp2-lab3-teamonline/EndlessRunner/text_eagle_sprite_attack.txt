@@ -1,0 +1,5 @@
+assets/sunny-land/eagle-attack.png
+0 0 40 40
+40 0 40 40
+80 0 40 40
+120 0 40 40

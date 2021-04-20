@@ -1,0 +1,4 @@
+text_player_sprite_jump.txt
+Once
+500
+0 1

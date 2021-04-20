@@ -1,0 +1,24 @@
+Sprites:
+
+Characters: assets/sunny-land, see license.
+Background: assets/background, see license.
+
+Audio:
+
+Background Music: Teemu Laiho
+Hurt Sound: assets/audio, see license.
+
+Font:
+
+assets/open-sans, see license.
+
+UI:
+
+UI Icons: Teemu Laiho
+
+Code:
+
+Collider.h / Collider.cpp : 	// Jerry Jonsson / Uppsala University / Game Programming 1: Computer Games in 2D | 5.0 hp | 5SD804
+KeyCode.h :			// Jerry Jonsson / Uppsala University / Game Programming 1: Computer Games in 2D | 5.0 hp | 5SD804
+Transform.h / Transform.cpp : 	// Jerry Jonsson / Uppsala University / Game Programming 1: Computer Games in 2D | 5.0 hp | 5SD804
+Vector2.h / Vector2.cpp :	// Jerry Jonsson / Uppsala University / Game Programming 1: Computer Games in 2D | 5.0 hp | 5SD804

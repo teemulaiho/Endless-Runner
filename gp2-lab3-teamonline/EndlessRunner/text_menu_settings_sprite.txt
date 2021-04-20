@@ -1,0 +1,2 @@
+assets/ui/settings.png
+0 0 150 79

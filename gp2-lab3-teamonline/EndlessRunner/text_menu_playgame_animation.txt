@@ -1,0 +1,4 @@
+text_menu_playgame_sprite.txt
+Loop
+0
+0

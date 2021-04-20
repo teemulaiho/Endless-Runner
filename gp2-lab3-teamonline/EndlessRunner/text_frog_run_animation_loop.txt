@@ -1,0 +1,4 @@
+text_frog_sprite_run.txt
+Loop
+100
+0 1 2

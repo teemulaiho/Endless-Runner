@@ -1,0 +1,2 @@
+assets/ui/playgame.png
+0 0 150 79

@@ -1,0 +1,4 @@
+text_player_sprite_hurt.txt
+Loop
+200
+0 1
